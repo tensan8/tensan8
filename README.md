@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=1Ncn6S5HlIooikAZ-7rV0_bTIfCspfKg6"/>
 
-<h2 align="center">✨ Welcome ✨<img src="" width="30px"></h2>
+<h2 align="center">✨ Welcome ✨</h2>
 <h3 align="center">Alesandro Michael Ferdinand's GitHub</h3>
 
 <br/>
@@ -41,9 +41,6 @@
 </a>
 <a href="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo">
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-</a>
-<a href="https://icons8.com/icon/xJd_7yBGvl5J/r-project">
-    <img src="https://img.icons8.com/windows/32/000000/r-project.png"/>
 </a>
 <a href="https://icons8.com/icon/EgOU93v1DHjU/android-studio">
     <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
