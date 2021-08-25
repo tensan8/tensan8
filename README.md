@@ -3,8 +3,6 @@
 <h2 align="center">✨ Welcome ✨</h2>
 <h3 align="center">Alesandro Michael Ferdinand's GitHub</h3>
 
-<br/>
-
 ## 👨‍💻 About Me
 <table style="table-layout: fixed; width: 100%">
   <tr>
