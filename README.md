@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🤝 Let's Connect:
 <a href="https://www.linkedin.com/in/alesandro-michael-ferdinand/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
