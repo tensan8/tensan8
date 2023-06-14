@@ -1,76 +1,57 @@
-<img width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=1Ncn6S5HlIooikAZ-7rV0_bTIfCspfKg6"/>
+<h1 align="center">
+  <b>Hi , Alesandro is here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h2 align="center">✨ Welcome ✨</h2>
-<h3 align="center">Alesandro Michael Ferdinand's GitHub</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=750&center=true&width=435&lines=%3CWelcome%2F%3E" alt="Typing SVG for Alesandro's Profile" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
-<table style="table-layout: fixed; width: 100%">
-  <tr>
-    <td>
-        An IT enthusiast with several experiences in developing <span style="color: #ffb347">websites and applications</span>, along with 6 years of <span style="color: #ffb347">project management</span> experience.
-        <br/>
-        <br/>
-        Experienced in developing websites <code>(HTML, CSS, JavaScript, PHP)</code> and applications starting from games until Android applications <code>(Ruby, C++, Java, C#)</code>. Some experiences in <span style="color: #ffb347">Data Science</span> and <span style="color: #ffb347">AI</span> fields, such as using <code>D3.js</code> for Data Visualisation, <code>MySQL</code>, <code>R</code> for Data Analysis, and <code>Python</code> to develop an AI application. Also, being active in several different organizations and have been trusted to lead several various projects.
-        <br/>
-        <br/>
-        Had ever trusted to create an application prototype for the government institution after working with them to see what we can improve from their internal working process.
-    </td>
-    <td>
-        <a href="https://www.deviantart.com/bbrunomoraes/art/Cold-rainy-day-614776876">
-            <img width="100%" height="auto" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"/>
-        </a>
-    </td>
-  </tr>
-</table>
-
-
+- Mainly focus on Software Development
+- Have knowledge in Data Science, AI, and IoT
+- Also a musician and a dancer
 
 <br/>
 
-## 🚀 Languages and Tools:
-<a href="https://icons8.com/icon/22189/ruby-programming-language">
-    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
-</a>
-<a href="https://icons8.com/icon/108784/javascript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-</a>
-<a href="https://icons8.com/icon/13679/java">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-</a>
-<a href="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-</a>
-<a href="https://icons8.com/icon/EgOU93v1DHjU/android-studio">
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
-</a>
-<a href="https://icons8.com/icon/13441/python">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-</a>
-<a href="https://icons8.com/icon/40669/c++">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
-<a href="https://icons8.com/icon/45490/c-sharp-logo-2">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-</a>
-<a href="https://icons8.com/icon/62452/firebase">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-</a>
-<a href="https://icons8.com/icon/13654/microsoft-excel">
-    <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Top Stacks</b>
+<a href="https://github.com/tensan8?tab=repositories">
+    <img src="https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20-%232370ED.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python%20-%23F05033.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
+<br/>
 
-## 🤝 Let's Connect:
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Let's Connect!</b>
 <a href="https://www.linkedin.com/in/alesandro-michael-ferdinand/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn: Alesandro Michael Ferdinand-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br/>
 <a href="mailto:tensanf@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+    <img src="https://img.shields.io/badge/Email: tensanf@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
 
-<img width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=1BPThR6lIMF82SiB19EaELzsmoeG6fv9k"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribution Stats</b>
+<a href="https://github.com/tensan8">
+  <img src="https://github-readme-stats.vercel.app/api?username=tensan8&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=750&center=true&width=435&lines=%3CGreeting+text%3D%22Have+a+great+day!%22%2F%3E" alt="Typing SVG for Alesandro's Closing" />
+</p>
